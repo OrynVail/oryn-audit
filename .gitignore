@@ -1,0 +1,12 @@
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~*
+*.md~
+oryn-audit-*.md
+*.log
+*.out
+*.aux
+.DS_Store
+Thumbs.db
